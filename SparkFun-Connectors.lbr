@@ -35646,7 +35646,7 @@ to be daisy chained easily.&lt;/p&gt;
 </device>
 </devices>
 </deviceset>
-<deviceset name="TEST-POINT" prefix="TP">
+<deviceset name="TEST-POINT" prefix="TP" uservalue="yes">
 <description>&lt;h3&gt;SparkFun Test Points&lt;/h3&gt;
 &lt;p&gt;Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;SparkFun Products:&lt;/b&gt;
